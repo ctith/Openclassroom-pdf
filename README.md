@@ -16,7 +16,9 @@ Exporter le résultat en fichier excel .xls
 ![](https://github.com/ctith/Openclassroom-pdf/blob/master/2018-06-22%2012_35_17-Data%20Miner.png?raw=true)
 
 ### Sur excel
-Faire ctrl+H (remplacement de caractère) et mettre "* " pour supprimer tous les caractères qui se situent avant le "http://user" qui nous intéresse
+Faire ctrl+H (remplacement de caractère) et mettre "* " pour supprimer tous les caractères qui se situent AVANT l'espace et "http://user" qui nous intéresse
+> faites attention à bien mettre un espace après *
+![](https://github.com/ctith/Openclassroom-pdf/blob/master/2018-06-22%2014_08_48-dataminer%20-%20Excel.png?raw=true)
 
 Enregistrer les liens à télécharger dans un fichier texte [pdf.txt](https://github.com/ctith/Openclassroom-pdf/blob/master/pdf.txt)
 
