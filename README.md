@@ -11,9 +11,11 @@ https://openclassrooms.com/old-courses-pdf
 
 ![](https://github.com/ctith/Openclassroom-pdf/blob/master/2018-06-22%2012_34_45-Anciens%20PDF%20des%20cours%20-%20OpenClassrooms.png?raw=true)
 
-On obtient une colonne avec tous les href de la page
-Exporter le résultat en fichier excel .xls
 ![](https://github.com/ctith/Openclassroom-pdf/blob/master/2018-06-22%2012_35_17-Data%20Miner.png?raw=true)
+
+On obtient une colonne avec tous les href de la page
+Exporter le résultat en fichier excel [dataminer.xls](https://github.com/ctith/Openclassroom-pdf/blob/master/dataminer.xlsx)
+
 
 ### Sur excel
 Faire ctrl+H (remplacement de caractère) et mettre "* " pour supprimer tous les caractères qui se situent AVANT l'espace et "http://user" qui nous intéresse
