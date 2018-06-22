@@ -18,7 +18,7 @@ Exporter le résultat en fichier excel [dataminer.xls](https://github.com/ctith/
 
 
 ### Sur excel
-Faire ctrl+H (remplacement de caractère) et mettre "* " pour supprimer tous les caractères qui se situent AVANT l'espace et "http://user" qui nous intéresse
+Faire ctrl+H (remplacement de caractère) et mettre "* " pour supprimer tous les caractères qui se situent AVANT l'espace et le lien "http://user..." qui nous intéresse
 > faites attention à bien mettre un espace après *
 ![](https://github.com/ctith/Openclassroom-pdf/blob/master/2018-06-22%2014_08_48-dataminer%20-%20Excel.png?raw=true)
 
