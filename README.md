@@ -18,7 +18,7 @@ Exporter le résultat en fichier excel .xls
 ### Sur excel
 Faire ctrl+H (remplacement de caractère) et mettre "* " pour supprimer tous les caractères qui se situent avant le "http://user" qui nous intéresse
 
-Enregistrer les liens à télécharger dans un fichier texte ![pdf.txt](https://github.com/ctith/Openclassroom-pdf/blob/master/pdf.txt)
+Enregistrer les liens à télécharger dans un fichier texte [pdf.txt](https://github.com/ctith/Openclassroom-pdf/blob/master/pdf.txt)
 
 ### Sur une console linux
 
